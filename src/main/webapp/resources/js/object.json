@@ -1,0 +1,22 @@
+{
+  "employees": {
+    "sample@yahoo.com": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "birth": "1992-01-02",
+      "position": "Junior Programmer"
+    },
+    "sample2@yahoo.com": {
+        "firstName": "Anna",
+        "lastName": "Smith",
+        "birth": "1932-01-23",
+        "position": "Chef"
+      },
+    "sample3@gmail.com":{
+        "firstName": "Neil",
+        "lastName": "Wright",
+        "birth": "1988-01-15",
+        "position": "Administrator"
+      }
+    }
+}
